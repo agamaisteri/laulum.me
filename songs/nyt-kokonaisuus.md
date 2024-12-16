@@ -39,7 +39,7 @@ synytynyt.
 
 Joulu on taas
 
-Joulu on taas, joulu on taas,
+Joulu on nyt, joulu on nyt,
 kattilat täynnä puuroo.
 Nyt sitä saa, nyt sitä saa
 vatsansa täyteen puuroo.
@@ -49,4 +49,4 @@ Muurari rabbi
 Muurari rabbi nyt,
 on matkalle lähtenyt.
 Noussut on satulaan ratsunsa,
-kuitenkin kuningas.
+Nyttenkin kuningas.
