@@ -43,3 +43,15 @@ Minä annan käyttökiellon,
 järjestöt on kauhuissaan.
 :,: Voisin viettää runtupäivää
 jälleen huomenna. :,:
+
+Häkki sivistyksellä
+Jotain tunkee vaan putkeen
+HYY ei kerro mitä vittua
+Sanoo vaan että jotain
+Joka ei kuulu ees sinne
+Klusterilla sataa vettä
+
+Minä annan käyttökiellon,
+järjestöt on kauhuissaan.
+:,: Voisin viettää runtupäivää
+jälleen huomenna. :,:
